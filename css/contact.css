@@ -1,0 +1,46 @@
+#contact_header{
+  margin-top: 100px;
+  background-color: #89001c;
+  padding: 10px;
+  color: white;
+  text-align: center;
+
+}
+
+
+
+#contact_header h1{
+  font-size: 50px;
+}
+
+#contact_header p{
+  font-size: 20px;
+
+}
+
+#contact_header hr{
+  width: 100px;
+  border: 1px solid white
+}
+
+#form_contact{
+  background-color: #89001c;
+  width: 500px;
+  margin: 200px auto;
+  padding: 20px
+}
+
+input{
+  display: block;
+   margin: 20px auto;
+}
+
+textarea{
+   display: block;
+  margin: 20px auto;
+}
+
+button{
+  display: block;
+   margin: 20px auto;
+}

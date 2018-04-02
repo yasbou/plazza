@@ -156,68 +156,68 @@ init: function(){
     var pizza = [
       [
         'normande',
-        ['mozzarella', '', '']
+        ['mozzarella', 'pomme de terre', 'oignons', 'raclette', 'origan']
       ],
 
       [
         'norvegienne',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'saumon fumé', 'origan',]
       ],
       [
         'savoyarde',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'lardons', 'pomme de terre', 'oignon', 'raclette', 'origan']
       ],
       [
         "l'étonnante",
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'viande à kebab', 'oignons', 'oeuf', 'origan']
       ],
       [
         'la séduisante',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'jambon', 'chèvre', 'miel', 'origan']
       ],
       [
         'la plazza',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'cheèvre', 'oignons', 'pomme de terre', 'origan']
       ],
       [
         "l'appétissante",
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'mozzarella', 'Viande hachée', 'champignons', 'oeuf', 'pomme de terre', 'origan']
       ],
       [
         'la délicieuse',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'merguez', 'pomme de terre', 'oignons', 'origan']
       ],
       [
         'la savoureuse',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'poulet fumé', 'pomme de terre', 'oignons', 'origan']
       ],
       [
         'boursinoise',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'viande hachée', 'boursin', 'poivrons', 'oignons', 'oeuf', 'origan']
       ],
       [
         'indienne',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'ananas', 'émincé de poulet', 'sauce curry', 'origan']
       ],
       [
         'crémeuse',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'brie', 'pomme de terre', 'oignons', 'chevre', 'origan']
       ],
       [
         'fabuleuse',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'poulet fumé', 'boursin', 'oignons', 'champignons', 'origan']
       ],
       [
         'la chef',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'poulet', 'pomme de terre', 'oignons', 'boursin', 'origan']
       ],
       [
         'la 7 fromage',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'boursin', 'raclette', 'chevre', 'brie', 'bleu', 'cheddar', 'origan']
       ],
       [
         'la figue',
-        ['mozzarella', '', '', '', '']
+        ['mozzarella', 'chevre', 'confiture de figue', 'noix']
       ],
     ];
     $('.carte').text('');
