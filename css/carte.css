@@ -1,0 +1,140 @@
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+
+#btn_menu{
+
+  margin-top: 300px;
+  float: right;
+  margin-right: 170px;
+}
+
+#btn_menu button{
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  opacity: 0.5;
+
+}
+
+#btn_menu button:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+
+a:active, a:focus
+{
+outline: none;
+}
+
+
+#btn0{
+background-color: red;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn1{
+background-color: white;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn2{
+background-color: #e89700;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn3{
+background-color:#300c02;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn4{
+background-color:#f8d996;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn5{
+background-color:#cdae4b;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn6{
+background-color:#de4410;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn7{
+background-color: #c65428;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+#btn8{
+background-color:#5d2e24;
+border: 0px;
+color: black;
+border-radius: 10%;
+padding: 5px;
+font-weight: bolder;
+}
+
+.carte{
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: sans;
+  margin-top: 130px;
+  margin-left: 30px;
+  color: white;
+  display: inline;
+  background-color: black;
+  opacity: 0.7;
+  padding: 20px;
+}
+
+
+.pizza_name{
+  font-size: 16px;
+  text-decoration: underline;
+  color: red;
+  font-weight: bolder;
+  font-family:'Lobster', cursive;
+  text-transform: capitalize;
+
+}
+
+.pizza li{
+  display: inline;
+  line-height: 1.6;
+}

@@ -1,0 +1,33 @@
+
+nav{
+background-color:  #292c30;
+padding: 20px;
+position: fixed;
+}
+
+#pp{
+  display: inline;
+  color:red;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  padding: 20px;
+
+}
+
+#nav{
+  text-align: center;
+}
+
+#nav li{
+  display: inline;
+  padding: 20px;
+  font-family: 'Lobster Two', cursive;
+  font-size: 25px;
+
+}
+
+#nav a{
+  text-decoration: none;
+  color: white;
+  padding-top: 20px;
+}

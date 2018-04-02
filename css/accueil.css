@@ -1,0 +1,40 @@
+#accueil h1{
+
+
+  margin-left: 30px;
+  font-weight: bolder;
+  margin-bottom: 10px;
+
+}
+
+#qualite{
+  background-color: black;
+  margin-top: 100px;
+  width: 400px;
+  opacity: 0.6;
+  padding: 20px;
+}
+
+#qualite h2{
+font-family: 'Open Sans';
+font-weight: bolder;
+margin-bottom: 30px;
+color:white;
+}
+
+#qualite p{
+font-family: 'Open Sans';
+text-align: justify;
+line-height: 20px;
+color:white;
+}
+
+#tel{
+  margin-top: 300px;
+  font-size: 30px;
+  color: yellow;
+}
+
+.fa-phone{
+  transform: rotate(135deg);
+}

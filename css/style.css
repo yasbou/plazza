@@ -1,0 +1,49 @@
+#accueil{
+
+background-image: url('../images/pizza_accueil.jpg');
+height: 100vh;
+width: 100%;
+background-size: cover;
+display: table;
+background-attachment: fixed;
+
+
+}
+#offre{
+  background-image: url('../images/pizza_offre.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+
+}
+
+
+#horraire{
+  background-image: url('../images/pizza_accueil.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+
+}
+#carte{
+  background-image: url('../images/pizza_carte.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+
+}
+#contact{
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+
+}
